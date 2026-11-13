@@ -1,0 +1,7 @@
+{
+  "id": "com.jo.enemy_hp",
+  "name": "Enemy HP Multipliers",
+  "version": "@PROJECT_VERSION@",
+  "author": "Jo (enemy lists from A Link Between Twilight, CC0)",
+  "description": "Multiplies the health of enemies, with separate settings for regular enemies, mini-bosses, dungeon bosses and the final bosses. Pair it with Dusklight's own Damage Multiplier (Settings > Difficulty) for damage taken."
+}
